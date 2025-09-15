@@ -17,16 +17,3 @@ Soy un apasionado desarrollador. Mi enfoque principal está en el desarrollo bac
 ![Estadísticas de leondev4](https://github-readme-stats.vercel.app/api?username=leondev4&show_icons=true&theme=radical)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=leondev4&layout=compact&theme=radical)
-
-## 🔗 Conectemos
-
-- [LinkedIn](https://www.linkedin.com/in/)
-- [Sitio Web Personal]()
-- [Twitter](https://twitter.com/)
-
-## 📫 Cómo contactarme
-
-- Email: correo@correo.com
-- ¡No dudes en abrir un issue o PR en cualquiera de mis repositorios!
-
-![Visitas](https://komarev.com/ghpvc/?username=leondev4&color=blueviolet)
