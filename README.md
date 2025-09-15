@@ -1,32 +1,32 @@
-# 👋 Hola, soy Kareem Aladawy
+# 👋 Hola, soy leondev4
 
-### Desarrollador de Software & Arquitecto de Soluciones
+### Desarrollador de Software
 
-Soy un apasionado desarrollador con experiencia en crear soluciones escalables y eficientes. Mi enfoque principal está en el desarrollo backend, arquitectura de sistemas y tecnologías cloud.
+Soy un apasionado desarrollador. Mi enfoque principal está en el desarrollo backend y tecnologías cloud.
 
 ## 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes:** Java, Python, JavaScript, TypeScript
-- **Frameworks:** Spring Boot, Node.js, React
-- **Bases de Datos:** MySQL, PostgreSQL, MongoDB
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins
-- **Herramientas:** Git, Maven, Gradle, IntelliJ IDEA
+- **Lenguajes:** Java, Php, JavaScript
+- **Frameworks:** Spring Boot, React, Laravel
+- **Bases de Datos:** MySQL, PostgreSQL
+- **Cloud & DevOps:** AWS, Docker
+- **Herramientas:** Git, Maven, IntelliJ IDEA
 
 ## 📈 Estadísticas de GitHub
 
-![Estadísticas de Kareem](https://github-readme-stats.vercel.app/api?username=kareemaladawy&show_icons=true&theme=radical)
+![Estadísticas de leondev4](https://github-readme-stats.vercel.app/api?username=leondev4&show_icons=true&theme=radical)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=kareemaladawy&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=leondev4&layout=compact&theme=radical)
 
 ## 🔗 Conectemos
 
-- [LinkedIn](https://www.linkedin.com/in/kareemaladawy/)
-- [Sitio Web Personal](https://www.kareemaladawy.com)
-- [Twitter](https://twitter.com/kareemaladawy)
+- [LinkedIn](https://www.linkedin.com/in/)
+- [Sitio Web Personal]()
+- [Twitter](https://twitter.com/)
 
 ## 📫 Cómo contactarme
 
-- Email: kareem@aladawy.com
+- Email: correo@correo.com
 - ¡No dudes en abrir un issue o PR en cualquiera de mis repositorios!
 
-![Visitas](https://komarev.com/ghpvc/?username=kareemaladawy&color=blueviolet)
+![Visitas](https://komarev.com/ghpvc/?username=leondev4&color=blueviolet)
